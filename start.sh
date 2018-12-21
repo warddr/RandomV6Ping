@@ -1,3 +1,3 @@
 while true; do
-	/usr/bin/python colorfield.py&
+	/usr/bin/python ping.py&
 done
